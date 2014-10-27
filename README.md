@@ -1,6 +1,6 @@
 ## Introduction
 
-[compare to original diff output of svn](./svn-color-cmp.png)
+![compare to original diff output of svn](./svn-color-cmp.png)
 
 First there was: [http://snipplr.com/view/15246/color-coded-svn-status](http://snipplr.com/view/15246/color-coded-svn-status)
 
