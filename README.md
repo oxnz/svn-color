@@ -1,3 +1,7 @@
+## Introduction
+
+[compare to original diff output of svn](./svn-color-cmp.png)
+
 First there was: [http://snipplr.com/view/15246/color-coded-svn-status](http://snipplr.com/view/15246/color-coded-svn-status)
 
 Then there was: [http://snipplr.com/view/16540/color-coded-svn-status-v2](http://snipplr.com/view/16540/color-coded-svn-status-v2)
