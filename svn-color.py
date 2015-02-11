@@ -27,7 +27,7 @@ colorizedSubcommands = (
 statusColors = {
     'M'     : "33",     # yellow 
     '!'     : "31",     # red
-    '?'     : "37",     # grey
+    '?'     : "34",     # blue
     'A'     : "32",     # green
     'X'     : "33;42",  # black on yellow
     'C'     : "30;41",  # black on red
